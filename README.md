@@ -1,5 +1,8 @@
 # TMMC-Design-Challenge
 
+# This repositiory contains our team's code for the Toyota Motor Manufacturing Company (TMMC) Innovation Challenge.
+
+
 # Purpose
 The goal of this deisgn challenge was to develop and train a machine learning model that would detect black-sealing stickers on toyota car parts. The model would have to pass various tests, including those on different coloured surfaces.
 
